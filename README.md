@@ -1,1 +1,0 @@
-# ruby_for_jenkins_awsBeanstalk
